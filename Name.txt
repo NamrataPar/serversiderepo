@@ -1,0 +1,3 @@
+Content of Name.txt
+
+Server allows me to add a file not in the clone repository
